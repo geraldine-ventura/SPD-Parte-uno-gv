@@ -11,7 +11,7 @@
 
 
 ## Proyecto: Parte 1: Contador de 0 a 99 con Display 7 Segmentos y Multiplexación.
-![Tinkercad](./SPD-parcial-domiciliario-parte-uno-main/Img/SPD_Parte_uno.png)
+![Tinkercad](./Img/SPD_Parte_uno.png)
 
 
 ## Descripción
