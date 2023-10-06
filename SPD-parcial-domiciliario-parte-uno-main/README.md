@@ -1,7 +1,7 @@
 # SPD-parcial-domiciliario-parte-uno
  Parcial parte uno
 # Ejemplo Documentación 
-![Tinkercad](./img/ArduinoTinkercad.jpg)
+![Tinkercad](SPD-parcial-domiciliario-parte-uno-main/Img/ArduinoTinkercad.jpg)
 
 
 ## Integrantes 
