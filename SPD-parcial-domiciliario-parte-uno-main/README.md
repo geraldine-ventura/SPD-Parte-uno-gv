@@ -78,4 +78,4 @@ void printDigit(int digit)
 ### Fuentes
 
 
-![Tinkercad](./spd\spd\SPD_Parte_uno-Stadelman.pdf)
+![Tinkercad](./spd/spd/SPD_Parte_uno-Stadelman.pdf)
