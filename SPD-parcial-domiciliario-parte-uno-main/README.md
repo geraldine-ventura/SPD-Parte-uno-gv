@@ -1,6 +1,6 @@
 # SPD-parcial-domiciliario-parte-uno
  Parcial parte uno
-# Ejemplo Documentación 
+# Documentación 
 ![Tinkercad](./Img/ArduinoTinkercad.jpg)
 
 
@@ -70,7 +70,7 @@ void printDigit(int digit)
 }
 ~~~
 ## :robot: Link al proyecto
-- [proyecto]()
+- [proyecto](https://www.tinkercad.com/things/3tJoK7UXKvG)
 ## :tv: Link al video del proceso
 - [video]()
 
