@@ -1,0 +1,11 @@
+﻿Nombre,Cantidad,Componente
+"UPlacaARD1",1," Arduino Uno R3"
+"DigitVisual11, DigitVisual21",2,"Ánodo Visualizador de 7 segmentos"
+"R1, R2, R3, R4, R5, R6, R7",7,"230 Ω Resistencia"
+"SPul1, SPul2, Spul3",3," Pulsador"
+"S1",1," Interruptor deslizante"
+"PIR2",1,"8.688929258782423 , -202.1650913128895 , -202.1650913128895 , -215.75457398944206  Sensor PIR"
+"M1",1," Motor de aficionado"
+"T1",1," Transistor NPN (BJT)"
+"R8",1,"100 Ω Resistencia"
+"PIR1",1,"8.688929258782423 , -215.68499591481736 , -202.1650913128895  Sensor PIR"
